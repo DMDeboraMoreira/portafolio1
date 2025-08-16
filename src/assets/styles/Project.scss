@@ -1,3 +1,6 @@
+
+
+
 .projects-container {
     display: flex;
     flex-direction: column;
@@ -21,6 +24,8 @@
 }
   
 .zoom {
+    width: 500px;
+    height: 250px; 
     border-radius: 5px;
     transition: transform .2s;
     margin: 0 auto;
